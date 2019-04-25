@@ -1,1 +1,1 @@
-# BeerHunterPRJ
+# beer_hunters
